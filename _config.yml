@@ -1,13 +1,13 @@
 # Site settings
 title: Chowdown
-email: your-email@domain.com
+email: dsheets@danielsheets.com
 description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+baseurl: "https://danielsheets.github.io/chowdown"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
+twitter_username: danielsheets
+github_username:  danielsheets
 
 # Build settings
 markdown: kramdown
