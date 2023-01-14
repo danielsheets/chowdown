@@ -2,6 +2,7 @@
 layout: recipe
 title: "Titi Angi's Coquito"
 tags: drink, alcohol, rum, holiday
+image: "coquito.jpg"
 
 ingredients:
 - 1/2 to 1/3 cup of Don Q Puerto Rican Rum

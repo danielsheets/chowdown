@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: "Oven Baked Crispy Wings"
 tags: dinner, chicken, wings

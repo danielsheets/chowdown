@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Ghirardelli Chocolate Chip Cookies"
-image: "chocochip.png"
+image: "cookies.jpeg"
 tags: desert, baking
 
 ingredients:
