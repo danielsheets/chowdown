@@ -21,16 +21,16 @@ ingredients:
 
 directions:
 
-* Prep
-  - pat dry chicken wings, break down if desired
-  - coat generously in seasoning and baking powder mix
-  - lay out on wire rack in fridge uncovered for 24 hours
+Prep
+- pat dry chicken wings, break down if desired
+- coat generously in seasoning and baking powder mix
+- lay out on wire rack in fridge uncovered for 24 hours
 
-* Cooking
-  - preheat oven to 450 degrees
-  - place chicken on a wire rack over aluminum foil and bake for 20 minutes
-  - meanwhile prepare butter, garlic, and hot sauce in a pan, heat and incorporate until steaming hot
-  - flip chicken, bake for an additional 10-20 minutes or until internal temp is at 165 degrees F
-  - place wings straight from oven in a large bowl, cover and toss in warmed garlic butter hot sauce, then return to rack to not get soggy
+Cooking
+- preheat oven to 450 degrees
+- place chicken on a wire rack over aluminum foil and bake for 20 minutes
+- meanwhile prepare butter, garlic, and hot sauce in a pan, heat and incorporate until steaming hot
+- flip chicken, bake for an additional 10-20 minutes or until internal temp is at 165 degrees F
+- place wings straight from oven in a large bowl, cover and toss in warmed garlic butter hot sauce, then return to rack to not get soggy
 
 ---
