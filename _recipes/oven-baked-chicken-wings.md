@@ -1,4 +1,5 @@
 ---
+
 layout: recipe
 title: "Oven Baked Crispy Wings"
 tags: dinner, chicken, wings
@@ -19,7 +20,8 @@ ingredients:
 - fresh ground black pepper (to taste)
 
 directions:
-- Two Stages:
+
+test
 
   * Prep
   - pat dry chicken wings, break down if desired
