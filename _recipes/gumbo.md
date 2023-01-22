@@ -16,18 +16,6 @@ ingredients:
     - 4 to 6 stalks of chopped celery
     - 4 to 6 cloves of garlic
     - add chopped spicy peppers if desired
-- Seasoning mix
-    - 2 tbsp chicken bullion
-    - 1 tbsp kosher salt
-    - 1 tbsp oregano
-    - 2 tsp cayenne
-    - 1 tsp garlic powder
-    - 1 tsp onion powder
-    - 1 sprinkle of thyme
-    - 1 tsp paprika 
-    - crack black pepper until your wrist hurts
-    - Also have a container of "Tonys Creole Seasoning"
-    - 2 bay leaves
 - Liquids
     - 2-ish tbsp (eyeball it) Louisiana hot sauce
     - 2 tbsp Zatarans Liquid Shrimp and Crab Boil
@@ -67,4 +55,5 @@ directions:
 
 components:
 - Cajun Gumbo - Roux
+- Cajun Gumbo - Seasoning
 ---
