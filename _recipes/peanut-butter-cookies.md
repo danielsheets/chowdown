@@ -3,6 +3,7 @@
 layout: recipe
 title:  "Alton Brown's Pantry Raid Peanut Butter Cookies"
 tags: dessert, cookie, youtube
+image: "alton-pb.png"
 
 ingredients:
 - 1 cup peanut butter
