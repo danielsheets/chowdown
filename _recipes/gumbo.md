@@ -10,12 +10,6 @@ ingredients:
     - 1 lb smoked sausage
     - 1 lb andouille sausage
     - 2.5 lbs boneless skinless ahicken thighs
-- Veggies
-    - 1 large diced yellow onion
-    - 2 diced green peppers
-    - 4 to 6 stalks of chopped celery
-    - 4 to 6 cloves of garlic
-    - add chopped spicy peppers if desired
 - Liquids
     - 2-ish tbsp (eyeball it) Louisiana hot sauce
     - 2 tbsp Zatarans Liquid Shrimp and Crab Boil
@@ -54,6 +48,7 @@ directions:
     - Serve over white rice, garnish with File and green onions.
 
 components:
-- Cajun Gumbo - Roux
 - Cajun Gumbo - Seasoning
+- Cajun Gumbo - Roux
+- cajun Gumbo - Veggie Prep
 ---
