@@ -7,7 +7,7 @@ ingredients:
 - 1 large diced yellow onion
 - 2 diced green peppers
 - 4 to 6 stalks of chopped celery
-- 4 to 6 cloves of garlic
+- 4 to 6 cloves of garlic smashed and diced (jarred garlic is fine)
 - add chopped spicy peppers if desired
 
 directions:
