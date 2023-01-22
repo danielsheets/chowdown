@@ -1,7 +1,9 @@
 ---
 layout: recipe
 title: "Cajun Gumbo"
+image: "gumbo.jpeg"
 tags: dinner, seafood, cajun, rice
+
 
 ingredients:
 - Meat
