@@ -38,8 +38,8 @@ directions:
 
 components:
 - Cajun Gumbo - Seasoning
-- Cajun Gumbo - Roux
 - Cajun Gumbo - Veggie Prep
+- Cajun Gumbo - Roux
 
 ---
 
