@@ -10,12 +10,14 @@ ingredients:
     - 1 lb smoked sausage
     - 1 lb andouille sausage
     - 2.5 lbs boneless skinless ahicken thighs
+
 - Liquids
     - 2-ish tbsp (eyeball it) Louisiana hot sauce
     - 2 tbsp Zatarans Liquid Shrimp and Crab Boil
     - 32 oz chicken broth
     - 16 oz water
     - 1 12 oz beer of choice (IPA or Lager works great)
+
 - Garnish
     - chopped green onion
     - ground sasafrass leaves, aka Gumbo File
