@@ -37,24 +37,7 @@ ingredients:
 - Garnish
     - chopped green onion
     - ground sasafrass leaves, aka Gumbo File
-- Roux
-    - You will want to start with whatever fat is left in the pot
-    - Add vegetable oil if needed to fully coat bottom of pot
-    - Wait for oil to come to temperature, want it slightly hot
-    - Have onions, peppers, celery, garlic, and spicy peppers prepared
-        - Have onions by themselves, then celery and green peppers in another group, and last garlic.
-    - Have chicken stock nearby (not chilled, want it pantry/room temp)
-    - Have seasoning mix pre-portioned and ready to add to vegetables
-    - Have beer by your side
-    - Start adding flour to oil. You want the consistency to be near to caramel, almost wet sand.
-    - Using a flat bottomed wooden spoon, stir constantly. Do not walk away.
-    - you will need to keep the heat to a medium to medium low, depending on how things smell and develop
-    - stir constantly, ensuring to pull roux off the bottom of the pan as you go
-    - You want a dark brown/caramel color, nutty smelling. 
-    - This will go as fast or as slow as you set the heat to. 
-        If you burn the roux, you must throw it out. The taste is unbearable. Better to start over than to ruin the gumbo.
-    - Once roux is near chocolate or dark brown caramel, add onions.
-    - Recipe will contiue in directions. Potentially will break this out using the components feature of Chowdown in the future.
+    - french bread slices
 
 
 directions:
@@ -81,4 +64,7 @@ directions:
     - When low boiling, add whole boneless skinless chicken thighs
     - Simmer covered for 90 to 120 minutes, stirring every 20 to 30 minutes, keeping at a low boil (med-low heat, towards the lower side. slightly burbling)
     - Serve over white rice, garnish with File and green onions.
+
+components:
+- Cajun Gumbo - Roux
 ---

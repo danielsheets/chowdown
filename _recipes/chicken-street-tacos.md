@@ -5,8 +5,8 @@ title: "Chicken Street Tacos"
 tags: dinner, chicken, tortilla
 
 ingredients:
-- 1 onion
-- 1-2 green peppers
+- 1 onion, sliced fajita style
+- 1-2 green peppers, sliced fajita style
 - cilantro (optional)
 
 directions:
@@ -14,7 +14,7 @@ directions:
 - Remove chicken from skillet and set aside
 - Add a bit of liquid to the pan, let sauce reduce
 - Once juice is THICCC throw in the onions and pepprs, cook until tender/translucent
-- Serve on warm tortillas with cheese and cilantro
+- Serve on warm tortillas with cheese, garnish with cilantro
 
 components:
 - Chicken Street Taco Marinade
