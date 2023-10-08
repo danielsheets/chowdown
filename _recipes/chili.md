@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Chili and Cornbread"
-image: "chili.jpeg"
+image: "chili.jpg"
 tags: dinner, chili
 
 
