@@ -6,6 +6,8 @@ image: "cookies.jpeg"
 tags: desert, baking
 
 ingredients:
+- 1 12oz bag of Ghirardelli Grand chocolate chips (any chip will do)
+- 1 chocolate bar, rough chopped
 - 2 1/4 cup flower
 - 3/4 cup sugar
 - 3/4 cup light brown sugar
