@@ -7,7 +7,7 @@ tags: desert, baking
 
 ingredients:
 - 1 12oz bag of Ghirardelli Grand chocolate chips (any chip will do)
-- 1 chocolate bar, rough chopped
+- 1 dark chocolate bar, rough chopped (alternatively, dark chocolate chips in the 62-72% range)
 - 2 1/4 cup flour
 - 3/4 cup sugar
 - 3/4 cup light brown sugar
@@ -21,8 +21,8 @@ ingredients:
 
 directions:
 - Brown the butter, let it cool (doesn't need to be solid, but also needs to be closer to room temp)
-- Mix in with sugars until hydrated
-- Add eggs + vanilla, mix completly
+- Creme the browned butter with sugars until hydrated completely
+- Add eggs + vanilla, mix completely
 - Whisk together the remaining dry ingredients, slowly combine in batches to wet ingredients.
 - Once smooth, mix in chocolate
 - Rest dough for at least 24 hours in the fridge, preferred 24-48, max 3 days
